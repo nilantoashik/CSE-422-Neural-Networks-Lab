@@ -208,7 +208,7 @@ This repository demonstrates:
 **Md. Rahmatulla Ashik**
 
 - GitHub: https://github.com/nilantoashik
-- Course: CSE-422 Artificial Intelligence
+- Course: CSE-422 Neural Networks Lab
 - Institution: University Lab Coursework
 
 ---
