@@ -29,6 +29,19 @@ CSE-422-Neural-Networks-Lab/
 │   ├── Create Id_1007_LabAssignment2.ipynb
 │   └── (Fitness & Lifestyle Classifier + Analytical Report)
 │
+│
+├── NN_assignment3/
+│   ├── T1.png
+│   ├── T2.png
+│   ├── T3.png
+│   ├── T4.png
+│   ├── T5a.png
+│   ├── T5b.png
+│   ├── T6.png
+│   ├── B.png
+│   ├── ID_1007_NN_Assignment3.pdf
+│   └── Create Neural_Network_Assignment3.ipynb
+│
 ├── .gitattributes
 ├── .gitignore
 └── README.md
