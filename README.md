@@ -540,6 +540,7 @@ Assignment 3: Multi-layer Network (Non-linear)
 - GitHub: [@nilantoashik](https://github.com/nilantoashik)
 - Course: CSE-422 Neural Networks Laboratory
 - Institution: University Coursework
+- Batch: 52
 - Student ID: 1007
 
 ---
@@ -551,7 +552,7 @@ If you use this repository for learning or reference:
 ```
 @misc{CSE422NeuralNetworksLab,
   author = {Md. Rahmatulla Ashik},
-  title = {CSE-422: Neural Networks Lab - From Scratch Implementations},
+  title = {CSE-422: Neural Networks Lab},
   year = {2024-2025},
   publisher = {GitHub},
   howpublished = {\url{https://github.com/nilantoashik/CSE-422-Neural-Networks-Lab}},
@@ -607,6 +608,6 @@ For questions about the implementations or course content, please:
 
 ---
 
-**Last Updated:** March 2025  
+**Last Updated:** March 2026  
 **Repository Status:** Active & Maintained  
 **Course Status:** Ongoing
